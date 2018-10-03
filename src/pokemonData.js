@@ -100,3 +100,5 @@ const pokemons = [
 export const getPokemons = () =>{
   return pokemons;
 }
+
+export default getPokemons
